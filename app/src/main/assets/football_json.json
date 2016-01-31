@@ -1,0 +1,649 @@
+{
+  "results": [
+    {
+      "counter": "1",
+      "date": "lau. 23. jan",
+      "time": "11:00",
+      "tournament": "Fótbolti.net mótið - A deild R1",
+      "location": "Akraneshöllin",
+      "homeTeam": "ÍA",
+      "awayTeam": "KR",
+      "undefined": "2-4"
+    },
+    {
+      "counter": "2",
+      "date": "lau. 23. jan",
+      "time": "13:00",
+      "tournament": "Fótbolti.net mótið - A deild R2",
+      "location": "Akraneshöllin",
+      "homeTeam": "Víkingur Ó.",
+      "awayTeam": "ÍBV"
+    },
+    {
+      "counter": "3",
+      "date": "lau. 23. jan",
+      "time": "12:00",
+      "tournament": "Fótbolti.net mótið - B deild R1",
+      "location": "Vivaldivöllurinn",
+      "homeTeam": "Grótta",
+      "awayTeam": "Huginn/Höttur/Leiknir"
+    },
+    {
+      "counter": "4",
+      "date": "lau. 23. jan",
+      "time": "11:00",
+      "tournament": "Fótbolti.net mótið - B deild R2",
+      "location": "JÁVERK-völlurinn",
+      "homeTeam": "Selfoss",
+      "awayTeam": "Afturelding",
+      "undefined": "0-0"
+    },
+    {
+      "counter": "5",
+      "date": "lau. 23. jan",
+      "time": "13:15",
+      "tournament": "Fótbolti.net mótið - B deild R2",
+      "location": "Kórinn",
+      "homeTeam": "HK",
+      "awayTeam": "Grindavík"
+    },
+    {
+      "counter": "6",
+      "date": "lau. 23. jan",
+      "time": "17:30",
+      "tournament": "Kjarnafæðismótið A-riðill",
+      "location": "Boginn",
+      "homeTeam": "Völsungur",
+      "awayTeam": "KA"
+    },
+    {
+      "counter": "7",
+      "date": "sun. 24. jan",
+      "time": "16:15",
+      "tournament": "RM m.fl. karla A-riðill",
+      "location": "Egilshöll",
+      "homeTeam": "Víkingur R.",
+      "awayTeam": "Fylkir"
+    },
+    {
+      "counter": "8",
+      "date": "sun. 24. jan",
+      "time": "18:15",
+      "tournament": "RM m.fl. karla A-riðill",
+      "location": "Egilshöll",
+      "homeTeam": "KR",
+      "awayTeam": "Leiknir R."
+    },
+    {
+      "counter": "9",
+      "date": "sun. 24. jan",
+      "time": "15:00",
+      "tournament": "Kjarnafæðismótið B-riðill",
+      "location": "Boginn",
+      "homeTeam": "Magni",
+      "awayTeam": "KA 2"
+    },
+    {
+      "counter": "10",
+      "date": "sun. 24. jan",
+      "time": "17:00",
+      "tournament": "Kjarnafæðismótið B-riðill",
+      "location": "Boginn",
+      "homeTeam": "KF",
+      "awayTeam": "Þór"
+    },
+    {
+      "counter": "11",
+      "date": "þri. 26. jan",
+      "time": "19:00",
+      "tournament": "FM - m.fl. kvenna B-riðill",
+      "location": "Bessastaðavöllur",
+      "homeTeam": "Álftanes",
+      "awayTeam": "Skínandi"
+    },
+    {
+      "counter": "12",
+      "date": "mið. 27. jan",
+      "time": "19:00",
+      "tournament": "Fótbolti.net mótið - B deild R1",
+      "location": "Reykjaneshöllin",
+      "homeTeam": "Keflavík",
+      "awayTeam": "Grótta"
+    },
+    {
+      "counter": "13",
+      "date": "fim. 28. jan",
+      "time": "19:00",
+      "tournament": "RM m.fl. karla B-riðill",
+      "location": "Egilshöll",
+      "homeTeam": "Þróttur R.",
+      "awayTeam": "Valur"
+    },
+    {
+      "counter": "14",
+      "date": "fim. 28. jan",
+      "time": "21:00",
+      "tournament": "RM m.fl. karla B-riðill",
+      "location": "Egilshöll",
+      "homeTeam": "Fjölnir",
+      "awayTeam": "Fram"
+    },
+    {
+      "counter": "15",
+      "date": "fim. 28. jan",
+      "time": "20:15",
+      "tournament": "FM - m.fl. kvenna A-riðill",
+      "location": "Kórinn",
+      "homeTeam": "Selfoss",
+      "awayTeam": "Stjarnan"
+    },
+    {
+      "counter": "2",
+      "date": "lau. 23. jan",
+      "time": "10:00",
+      "tournament": "RM - 4. fl. karla A-lið 15/16",
+      "location": "Hertz völlurinn",
+      "homeTeam": "ÍR",
+      "awayTeam": "Þróttur R.",
+      "undefined": "4-0"
+    },
+    {
+      "counter": "3",
+      "date": "lau. 23. jan",
+      "time": "11:20",
+      "tournament": "RM - 4. fl. karla B-lið 15/16",
+      "location": "Hertz völlurinn",
+      "homeTeam": "ÍR",
+      "awayTeam": "Þróttur R.",
+      "undefined": "2-1"
+    },
+    {
+      "counter": "4",
+      "date": "lau. 23. jan",
+      "time": "12:00",
+      "tournament": "RM - 4. fl. karla A-lið 15/16",
+      "location": "Fjölnisvöllur - Gervigras",
+      "homeTeam": "Fjölnir 2",
+      "awayTeam": "Valur"
+    },
+    {
+      "counter": "5",
+      "date": "lau. 23. jan",
+      "time": "12:00",
+      "tournament": "RM - 4. fl. karla A-lið 15/16",
+      "location": "KR-völlur",
+      "homeTeam": "KR",
+      "awayTeam": "Víkingur R."
+    },
+    {
+      "counter": "6",
+      "date": "lau. 23. jan",
+      "time": "12:40",
+      "tournament": "RM - 4. fl. karla C-lið 15/16",
+      "location": "Hertz völlurinn",
+      "homeTeam": "ÍR",
+      "awayTeam": "Þróttur R."
+    },
+    {
+      "counter": "7",
+      "date": "lau. 23. jan",
+      "time": "13:00",
+      "tournament": "RM - 4. fl. karla B-lið 15/16",
+      "location": "Leiknisvöllur",
+      "homeTeam": "Leiknir R.",
+      "awayTeam": "Valur"
+    },
+    {
+      "counter": "8",
+      "date": "lau. 23. jan",
+      "time": "13:00",
+      "tournament": "RM - 4. fl. karla B-lið 15/16",
+      "location": "Framvöllur - Úlfarsárdal",
+      "homeTeam": "Fram",
+      "awayTeam": "Fylkir 2"
+    },
+    {
+      "counter": "9",
+      "date": "lau. 23. jan",
+      "time": "13:20",
+      "tournament": "RM - 4. fl. karla B-lið 15/16",
+      "location": "KR-völlur",
+      "homeTeam": "KR",
+      "awayTeam": "Víkingur R."
+    },
+    {
+      "counter": "10",
+      "date": "lau. 23. jan",
+      "time": "14:20",
+      "tournament": "RM - 4. fl. karla C-lið 15/16",
+      "location": "Framvöllur - Úlfarsárdal",
+      "homeTeam": "Fram",
+      "awayTeam": "Fjölnir 2"
+    },
+    {
+      "counter": "11",
+      "date": "lau. 23. jan",
+      "time": "14:40",
+      "tournament": "RM - 4. fl. karla C-lið 15/16",
+      "location": "KR-völlur",
+      "homeTeam": "KR",
+      "awayTeam": "Víkingur R."
+    },
+    {
+      "counter": "12",
+      "date": "lau. 23. jan",
+      "time": "14:00",
+      "tournament": "RM - 4. fl. kvenna A-lið 15/16",
+      "location": "Víkingsvöllur",
+      "homeTeam": "Víkingur R.",
+      "awayTeam": "Grótta/KR"
+    },
+    {
+      "counter": "13",
+      "date": "lau. 23. jan",
+      "time": "15:20",
+      "tournament": "RM - 4. fl. kvenna B-lið 15/16",
+      "location": "Víkingsvöllur",
+      "homeTeam": "Víkingur R.",
+      "awayTeam": "Grótta/KR"
+    },
+    {
+      "counter": "14",
+      "date": "lau. 23. jan",
+      "time": "15:45",
+      "tournament": "FM - 2. fl. ka. A-Deild  B lið 15/16",
+      "location": "Reykjaneshöllin",
+      "homeTeam": "Keflavík/Njarðvík",
+      "awayTeam": "Stjarnan/KFG"
+    },
+    {
+      "counter": "15",
+      "date": "lau. 23. jan",
+      "time": "17:40",
+      "tournament": "FM - 2. fl. ka  A-Deild 15/16",
+      "location": "Reykjaneshöllin",
+      "homeTeam": "Keflavík/Njarðvík",
+      "awayTeam": "Stjarnan/KFG"
+    },
+    {
+      "counter": "16",
+      "date": "lau. 23. jan",
+      "time": "14:00",
+      "tournament": "FM - 2. fl. kv  A-Deild 15/16",
+      "location": "Hlíðarendi",
+      "homeTeam": "Valur",
+      "awayTeam": "FH"
+    },
+    {
+      "counter": "17",
+      "date": "lau. 23. jan",
+      "time": "11:00",
+      "tournament": "FM - 3. fl. karla A-lið A 15/16",
+      "location": "Reykjaneshöllin",
+      "homeTeam": "Keflavík",
+      "awayTeam": "FH"
+    },
+    {
+      "counter": "18",
+      "date": "lau. 23. jan",
+      "time": "12:30",
+      "tournament": "FM - 3. fl. karla B-lið A 15/16",
+      "location": "Reykjaneshöllin",
+      "homeTeam": "Keflavík",
+      "awayTeam": "FH"
+    },
+    {
+      "counter": "19",
+      "date": "lau. 23. jan",
+      "time": "14:00",
+      "tournament": "FM - 3. fl. karla C-lið A 15/16",
+      "location": "Reykjaneshöllin",
+      "homeTeam": "Keflavík",
+      "awayTeam": "FH"
+    },
+    {
+      "counter": "20",
+      "date": "lau. 23. jan",
+      "time": "16:00",
+      "tournament": "FM - 3. fl. karla C-lið A 15/16",
+      "location": "ÍR-völlur",
+      "homeTeam": "Breiðablik",
+      "awayTeam": "FH 2"
+    },
+    {
+      "counter": "21",
+      "date": "lau. 23. jan",
+      "time": "13:00",
+      "tournament": "FM - 3. fl. karla A-lið B 15/16",
+      "location": "JÁVERK-völlurinn",
+      "homeTeam": "Selfoss/Hamar/Ægir",
+      "awayTeam": "ÍBV"
+    },
+    {
+      "counter": "22",
+      "date": "lau. 23. jan",
+      "time": "13:30",
+      "tournament": "FM - 3. fl. karla A-lið B 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "Haukar",
+      "awayTeam": "Stjarnan 2"
+    },
+    {
+      "counter": "23",
+      "date": "lau. 23. jan",
+      "time": "14:30",
+      "tournament": "FM - 3. fl. karla A-lið B 15/16",
+      "location": "Leiknisvöllur",
+      "homeTeam": "Grindavík",
+      "awayTeam": "Breiðablik 2"
+    },
+    {
+      "counter": "24",
+      "date": "lau. 23. jan",
+      "time": "15:00",
+      "tournament": "FM - 3. fl. karla B-lið B 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "Haukar",
+      "awayTeam": "Grótta"
+    },
+    {
+      "counter": "25",
+      "date": "lau. 23. jan",
+      "time": "10:00",
+      "tournament": "FM - 4. fl. karla A-lið A-deild 15/16",
+      "location": "Bessastaðavöllur",
+      "homeTeam": "Breiðablik",
+      "awayTeam": "Stjarnan 2"
+    },
+    {
+      "counter": "26",
+      "date": "lau. 23. jan",
+      "time": "11:20",
+      "tournament": "FM - 4. fl. karla B-lið A-deild 15/16",
+      "location": "Fífan",
+      "homeTeam": "Breiðablik",
+      "awayTeam": "Stjarnan 2",
+      "undefined": "3-0"
+    },
+    {
+      "counter": "27",
+      "date": "lau. 23. jan",
+      "time": "13:00",
+      "tournament": "FM - 4. fl. kvenna A-lið A deild 15/16",
+      "location": "Samsung völlurinn",
+      "homeTeam": "Stjarnan",
+      "awayTeam": "Grindavík"
+    },
+    {
+      "counter": "28",
+      "date": "lau. 23. jan",
+      "time": "12:00",
+      "tournament": "FM - 4. fl. kvenna A-lið B deild 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "Haukar",
+      "awayTeam": "Stjarnan 2"
+    },
+    {
+      "counter": "29",
+      "date": "lau. 23. jan",
+      "time": "12:00",
+      "tournament": "FM - 4. fl. kvenna A-lið B deild 15/16",
+      "location": "Kórinn",
+      "homeTeam": "HK",
+      "awayTeam": "FH 2"
+    },
+    {
+      "counter": "31",
+      "date": "sun. 24. jan",
+      "time": "14:00",
+      "tournament": "RM 2. fl. karla A-lið 15/16",
+      "location": "Leiknisvöllur",
+      "homeTeam": "Leiknir/KB",
+      "awayTeam": "KR 2",
+      "undefined": "Leik frestað"
+    },
+    {
+      "counter": "32",
+      "date": "sun. 24. jan",
+      "time": "14:00",
+      "tournament": "RM 2. fl. karla A-lið 15/16",
+      "location": "KR-völlur",
+      "homeTeam": "KR",
+      "awayTeam": "Valur"
+    },
+    {
+      "counter": "33",
+      "date": "sun. 24. jan",
+      "time": "10:00",
+      "tournament": "FM - 2. fl. ka  A-Deild 15/16",
+      "location": "Kórinn",
+      "homeTeam": "HK",
+      "awayTeam": "Haukar"
+    },
+    {
+      "counter": "34",
+      "date": "sun. 24. jan",
+      "time": "11:45",
+      "tournament": "FM - 2. fl. ka. A-Deild  B lið 15/16",
+      "location": "Kórinn",
+      "homeTeam": "HK",
+      "awayTeam": "Haukar"
+    },
+    {
+      "counter": "35",
+      "date": "sun. 24. jan",
+      "time": "13:00",
+      "tournament": "FM - 2. fl. ka  A-Deild 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "ÍBV/KFS/KFR",
+      "awayTeam": "FH"
+    },
+    {
+      "counter": "36",
+      "date": "sun. 24. jan",
+      "time": "13:00",
+      "tournament": "FM - 2. fl. ka  A-Deild 15/16",
+      "location": "N1-völlurinn Varmá",
+      "homeTeam": "Afturelding/Hvíti",
+      "awayTeam": "Breiðablik"
+    },
+    {
+      "counter": "37",
+      "date": "sun. 24. jan",
+      "time": "14:45",
+      "tournament": "FM - 2. fl. ka. A-Deild  B lið 15/16",
+      "location": "N1-völlurinn Varmá",
+      "homeTeam": "Afturelding/Hvíti",
+      "awayTeam": "Breiðablik"
+    },
+    {
+      "counter": "38",
+      "date": "sun. 24. jan",
+      "time": "15:00",
+      "tournament": "FM - 2. fl. ka  A-Deild 15/16",
+      "location": "ÍR-völlur",
+      "homeTeam": "Breiðablik 2",
+      "awayTeam": "Selfoss/Ham/Æg/Ár"
+    },
+    {
+      "counter": "39",
+      "date": "sun. 24. jan",
+      "time": "15:45",
+      "tournament": "FM - 2. fl. ka. A-Deild  B lið 15/16",
+      "location": "Leiknisvöllur",
+      "homeTeam": "Grindavík",
+      "awayTeam": "FH"
+    },
+    {
+      "counter": "40",
+      "date": "sun. 24. jan",
+      "time": "16:30",
+      "tournament": "FM - 2. fl. kv  A-Deild 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "FH",
+      "awayTeam": "HK/Víkingur"
+    },
+    {
+      "counter": "41",
+      "date": "sun. 24. jan",
+      "time": "20:00",
+      "tournament": "FM - 2. fl. kv  B-Deild 15/16",
+      "location": "Egilshöll",
+      "homeTeam": "Þróttur R.",
+      "awayTeam": "Fylkir"
+    },
+    {
+      "counter": "42",
+      "date": "sun. 24. jan",
+      "time": "12:00",
+      "tournament": "FM - 3. fl. karla A-lið A 15/16",
+      "location": "ÍR-völlur",
+      "homeTeam": "Breiðablik",
+      "awayTeam": "Afturelding"
+    },
+    {
+      "counter": "43",
+      "date": "sun. 24. jan",
+      "time": "13:00",
+      "tournament": "FM - 3. fl. karla A-lið A 15/16",
+      "location": "Akraneshöllin",
+      "homeTeam": "ÍA",
+      "awayTeam": "Stjarnan"
+    },
+    {
+      "counter": "44",
+      "date": "sun. 24. jan",
+      "time": "13:30",
+      "tournament": "FM - 3. fl. karla B-lið A 15/16",
+      "location": "ÍR-völlur",
+      "homeTeam": "Breiðablik",
+      "awayTeam": "Afturelding"
+    },
+    {
+      "counter": "45",
+      "date": "sun. 24. jan",
+      "time": "14:30",
+      "tournament": "FM - 3. fl. karla B-lið A 15/16",
+      "location": "Akraneshöllin",
+      "homeTeam": "ÍA",
+      "awayTeam": "Stjarnan"
+    },
+    {
+      "counter": "46",
+      "date": "sun. 24. jan",
+      "time": "10:00",
+      "tournament": "FM - 3. fl. kvenna A-lið B 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "FH 2",
+      "awayTeam": "Stjarnan 2"
+    },
+    {
+      "counter": "47",
+      "date": "sun. 24. jan",
+      "time": "11:30",
+      "tournament": "FM - 3. fl. kvenna A-lið A 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "FH",
+      "awayTeam": "ÍA"
+    },
+    {
+      "counter": "48",
+      "date": "sun. 24. jan",
+      "time": "13:00",
+      "tournament": "FM - 4. fl. karla A-lið A-deild 15/16",
+      "location": "JÁVERK-völlurinn",
+      "homeTeam": "Selfoss/Hamar/Ægir",
+      "awayTeam": "Afturelding"
+    },
+    {
+      "counter": "49",
+      "date": "sun. 24. jan",
+      "time": "14:30",
+      "tournament": "FM - 4. fl. karla B-lið A-deild 15/16",
+      "location": "JÁVERK-völlurinn",
+      "homeTeam": "Selfoss/Hamar/Ægir",
+      "awayTeam": "Afturelding"
+    },
+    {
+      "counter": "50",
+      "date": "sun. 24. jan",
+      "time": "11:00",
+      "tournament": "FM 4. flokkur karla 8 B-lið A 15/16",
+      "location": "ÍR-völlur",
+      "homeTeam": "Breiðablik 2",
+      "awayTeam": "Afturelding"
+    },
+    {
+      "counter": "51",
+      "date": "sun. 24. jan",
+      "time": "11:00",
+      "tournament": "FM 4. flokkur karla 8 A-lið A 15/16",
+      "location": "ÍR-völlur",
+      "homeTeam": "Breiðablik 2",
+      "awayTeam": "Afturelding"
+    },
+    {
+      "counter": "52",
+      "date": "sun. 24. jan",
+      "time": "14:50",
+      "tournament": "FM 4. flokkur karla 8 B-lið A 15/16",
+      "location": "Samsung völlurinn",
+      "homeTeam": "Stjarnan",
+      "awayTeam": "Breiðablik"
+    },
+    {
+      "counter": "53",
+      "date": "sun. 24. jan",
+      "time": "15:00",
+      "tournament": "FM - 4. fl. kvenna A-lið A deild 15/16",
+      "location": "Schenkervöllurinn",
+      "homeTeam": "FH",
+      "awayTeam": "RKV"
+    },
+    {
+      "counter": "54",
+      "date": "sun. 24. jan",
+      "time": "16:00",
+      "tournament": "FM - 4. fl. kvenna A-lið A deild 15/16",
+      "location": "Akraneshöllin",
+      "homeTeam": "ÍA",
+      "awayTeam": "Selfoss/Hamar/Ægir"
+    },
+    {
+      "counter": "55",
+      "date": "mán. 25. jan",
+      "time": "19:00",
+      "tournament": "RM 2. fl. karla A-lið 15/16",
+      "location": "Fylkisvöllur",
+      "homeTeam": "Fylkir",
+      "awayTeam": "Þróttur/SR"
+    },
+    {
+      "counter": "56",
+      "date": "mán. 25. jan",
+      "time": "20:45",
+      "tournament": "RM 2. fl. karla B-lið 15/16",
+      "location": "Fylkisvöllur",
+      "homeTeam": "Fylkir",
+      "awayTeam": "Þróttur/SR"
+    },
+    {
+      "counter": "57",
+      "date": "þri. 26. jan",
+      "time": "19:45",
+      "tournament": "RM 2. fl. karla B-lið 15/16",
+      "location": "Framvöllur",
+      "homeTeam": "Fram",
+      "awayTeam": "Fjölnir"
+    },
+    {
+      "counter": "58",
+      "date": "fim. 28. jan",
+      "time": "18:30",
+      "tournament": "FM - 2. fl. ka  A-Deild 15/16",
+      "location": "Vivaldivöllurinn",
+      "homeTeam": "Grótta",
+      "awayTeam": "Haukar"
+    }
+  ]
+}
