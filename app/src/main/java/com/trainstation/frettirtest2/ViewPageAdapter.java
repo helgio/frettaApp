@@ -23,13 +23,10 @@ public class ViewPageAdapter extends FragmentStatePagerAdapter{
             default:
                 return new MyViewPagerFragment2();
         }
-
     }
 
     @Override
     public int getCount() {
         return 2;
     }
-
-
 }

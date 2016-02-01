@@ -18,11 +18,10 @@ public class WebViewActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.webview);
 
-
         Intent i= getIntent();
         Bundle b = i.getExtras();
 
-        if(b!=null)
+        if(b != null)
         {
             String url =(String) b.get("url");
 
@@ -32,9 +31,5 @@ public class WebViewActivity extends Activity {
             webView.loadUrl(url);
 
         }
-
-
-
-
     }
 }

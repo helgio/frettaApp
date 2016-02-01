@@ -1,6 +1,7 @@
 package com.trainstation.frettirtest2;
 
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.util.Log;
@@ -8,35 +9,26 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-
+import android.widget.Toast;
 import com.trainstation.frettirtest2.responses.NewsResponse;
 import com.trainstation.frettirtest2.responses.NewsResultObject;
+import rx.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import rx.Observer;
-
 /**
  * Created by Helgi on 17/01/16.
  */
-public class MyViewPagerFragment extends Fragment{
+public class MyViewPagerFragment extends Fragment
+{
+    private static final String LOGTAG = MyViewPagerFragment.class.getSimpleName();
 
     ListView list;
-
 
     public MyViewPagerFragment(){
 
     }
-
-  /*  public void onResume(){
-        super.onResume();
-
-        // Set title bar
-        ((MainActivity) getActivity())
-                .setActionBarTitle("News");
-
-    }*/
 
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
@@ -50,8 +42,10 @@ public class MyViewPagerFragment extends Fragment{
 
             @Override
             public void onError(Throwable e) {
-                // TODO: show toast
-                Log.e("MyViewPagerFragment", "Couldn't get response", e);
+                Context context = getContext();
+                Toast.makeText(context, context.getResources().getString(R.string.error_getting_news), Toast.LENGTH_LONG)
+                        .show();
+                Log.e(LOGTAG, "Couldn't get response", e);
             }
 
             @Override
@@ -66,11 +60,10 @@ public class MyViewPagerFragment extends Fragment{
                         list.setAdapter(listCellAdapter);
                     }
                 });
-
             }
         });
-            return rootView;
 
+        return rootView;
     }
 
 
@@ -91,8 +84,4 @@ public class MyViewPagerFragment extends Fragment{
 
         return cellDataList;
     }
-
-
-
-
 }

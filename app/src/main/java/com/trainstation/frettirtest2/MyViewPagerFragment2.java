@@ -1,21 +1,19 @@
 package com.trainstation.frettirtest2;
 
 
-import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-
 import com.trainstation.frettirtest2.responses.NewsResponse;
 import com.trainstation.frettirtest2.responses.NewsResultObject;
+import rx.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import rx.Observer;
 
 /**
  * Created by Helgi on 17/01/16.
@@ -58,13 +56,10 @@ public class MyViewPagerFragment2 extends Fragment {
                         list.setAdapter(listCellAdapter);
                     }
                 });
-
             }
         });
         return rootView;
-
     }
-
 
     private List<CellData> createCellData(NewsResponse newsResponse){
 
@@ -83,16 +78,4 @@ public class MyViewPagerFragment2 extends Fragment {
 
         return cellDataList;
     }
-
-
-
-/*
-
-    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
-        View rootView = inflater.inflate(R.layout.fragment_view_pager, container, false);
-
-        return rootView;
-
-    }*/
-
 }
