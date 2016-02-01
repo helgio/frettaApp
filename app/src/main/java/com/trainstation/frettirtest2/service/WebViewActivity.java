@@ -12,7 +12,7 @@ import com.trainstation.frettirtest2.R;
 public class WebViewActivity extends Activity {
 
     private WebView webView;
-    public String url = "http://google.com";
+    private final String URL = "http://google.com";
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,7 +20,6 @@ public class WebViewActivity extends Activity {
 
         webView = (WebView) findViewById(R.id.webView1);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl(url);
-
+        webView.loadUrl(URL);
     }
 }

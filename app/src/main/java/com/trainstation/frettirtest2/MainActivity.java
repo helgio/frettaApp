@@ -14,22 +14,21 @@ import rx.Observable;
 
 public class MainActivity extends AppCompatActivity {
 
-    ViewPager pager;
-    ViewPageAdapter adapter;
+    private ViewPager pager;
+    private ViewPageAdapter adapter;
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
     private String[] mPlanetTitles;
 
-    NewsService newsService;
+    private NewsService newsService;
 
     public Observable<NewsResponse> getNewsResponse()
     {
         RestAdapter restAdapter = new RestAdapter.Builder().setEndpoint("https://itunes.apple.com").build();
 
         newsService = restAdapter.create(NewsService.class);
-        return newsService.getNewsData();
+        return newsService.getNewsData("beyonce", "musicVideo");
     }
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,8 +48,6 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-
-
     }
 
     public void changeToolbarTitle (int position){
@@ -69,6 +66,4 @@ public class MainActivity extends AppCompatActivity {
     public void setActionBarTitle(String title) {
         getSupportActionBar().setTitle(title);
     }
-
-
 }

@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FrettirTEST2</string>
+    <string name="app_name">Frétta Appið</string>
+    <string name="error_getting_news">ARG! Við klúðruðum einhverju, reyndu aftur síðar</string>
 </resources>
